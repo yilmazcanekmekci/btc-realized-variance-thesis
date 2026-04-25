@@ -1,1 +1,1 @@
-# BTC Realized Volatility Thesis 
+# BTC, S&P500 Realized Volatility Thesis 
